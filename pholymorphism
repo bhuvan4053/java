@@ -1,0 +1,13 @@
+class Dog
+{
+	  private void run()
+	  {
+		  System.out.println("Dog is running...");
+	  }
+	  public static void main(String args[])
+	  {
+		  Dog d1=new Dog();
+		  d1.run();
+		  
+	  }
+}
